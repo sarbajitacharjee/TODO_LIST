@@ -29,7 +29,7 @@ body.dark-mode {
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: cursive, 'Poppins', sans-serif;
     background-color: var(--background-color);
     color: var(--text-color);
     display: flex;
