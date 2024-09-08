@@ -30,21 +30,21 @@ You need a modern web browser (Chrome, Firefox, Safari, etc.) to run this projec
 
 1. **Clone the repository:**
 
-
+```
    git clone https://github.com/sarbajitacharjee/TODO_LIST.git
-
+```
    
 Navigate to the project directory:
 
-
-bash
-Copy code
+```bash
 cd todo-list-app
+```
 Open index.html in your browser:
-
 You can simply open the index.html file with your browser to view the app.
 
 # Usage
+
 Add a task: Type the task into the input field and click the "Add" button or press Enter.
 Mark task as completed: Click on the task name to mark it as completed (it will be crossed out).
 Delete a task: Click on the delete button next to the task to remove it from the list.
+
