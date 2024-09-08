@@ -15,7 +15,8 @@ You can try the live demo [here](https://todo-list-beige-gamma-23.vercel.app/).
 
 ## Screenshots
 
-![To-Do List Screenshot](./screenshot.png)
+![To-Do List Screenshot](./todo.png)
+![To-Do List Screenshot](./Todo1.png)
 
 ## Getting Started
 
